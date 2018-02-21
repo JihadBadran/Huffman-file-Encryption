@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="HuffmanProject">
+    <output-path>$PROJECT_DIR$/out/artifacts/HuffmanProject</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="App.GUIApp" />
+        <option name="convertCss2Bin" value="true" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="dmg" />
+        <option name="title" value="Huffman Encoder" />
+        <option name="vendor" value="Jihad Badran" />
+        <option name="version" value="1.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="HuffmanProject.jar">
+        <element id="module-output" name="HuffmanProject" />
+      </element>
+    </root>
+  </artifact>
+</component>

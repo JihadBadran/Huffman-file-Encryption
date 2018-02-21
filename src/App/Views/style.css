@@ -1,0 +1,27 @@
+
+Button {
+    -fx-background-color: #444;
+
+    -fx-border-radius: 0 0 0 0;
+    -fx-background-radius: 0 0 0 0;
+
+    -fx-text-fill: white;
+
+    -fx-font-size: 36px;
+}
+
+Button:hover {
+    -fx-background-color: #333;
+}
+
+Button:pressed {
+    -fx-background-color: #222;
+}
+
+.blueHover:hover {
+    -fx-background-color: dodgerblue;
+}
+
+.redHover:hover {
+    -fx-background-color: darkred;
+}
